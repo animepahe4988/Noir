@@ -14,7 +14,7 @@ class Config(object):
     #simplest method was AUTH_USERS = [] ; AUTH_USERS.append(your telegram id) 🤣
     # array to store the channel ID who are authorized to use the bot
     # dont u fucking remove this id 😤
-    TG_BOT_TOKEN = get_config("TG_BOT_TOKEN", "7314207306:AAFNmenSpINNNVH7cnBD1tn81agu9pBFkyw")
+    TG_BOT_TOKEN = get_config("TG_BOT_TOKEN", "7314207306:AAEZmjCnOu3NeOMWQtVZlM1fRwZieHoVKMA")
     # the download location, where the HTTP Server runs
     DOWNLOAD_LOCATION = get_config("DOWNLOAD_LOCATION", "/app/downloads")
     # Telegram maximum file upload size
